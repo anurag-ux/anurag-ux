@@ -11,8 +11,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <h4>Go Through My Portfolio<a href="https://anurag-ux.github.io/"> here!</h4>
   
-  ```javascript
-const thai = {
+  ```python
+const anurag = {
   pronouns: "he" | "him",
   code: [Python, C++, HTML, CSS, Javascript, SQL],
   tools: [sklearn, tensorflow, Node, Flutter, Docker],
