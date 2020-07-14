@@ -1,5 +1,5 @@
 <h2> Hi, I'm Anurag Shandilya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://drive.google.com/file/d/1vNJ--RVQ8wxk0bkWh4A2qYxphEXs0keU/view?usp=sharing" width="230">
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
 <p><em>Student at <a href="http://www.unb.br">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Analyst at <a href="https://www.thoughtworks.com">Blackcoffer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
