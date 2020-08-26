@@ -1,6 +1,12 @@
 <h2> Hi, I'm Anurag Shandilya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
+ Currently I'm working on
+  <ul>
+  <li>Machine Learning Project Based on Space Analysis <li>
+    <li> Learning React for Web Development</li>
+    <li>Competetive Programming and solving Leetcode Questions (currently 100)</li>
+  </ul>
 View my resume <a href="https://drive.google.com/file/d/12_Y3Nyjq1J6YCCrZtUSm0WF5RnY_L96B/view?usp=sharing">here</a>
 </em></p>
 
