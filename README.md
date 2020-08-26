@@ -3,7 +3,7 @@
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
  Currently I'm working on
   <ul>
-  <li>Machine Learning Project Based on Space Analysis <li>
+    <li>Machine Learning Project Based on Space Analysis </li>
     <li> Learning React for Web Development</li>
     <li>Competetive Programming and solving Leetcode Questions (currently 100)</li>
   </ul>
