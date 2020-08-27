@@ -7,7 +7,7 @@
     <li> Learning React for Web Development</li>
     <li>Competetive Programming and solving Leetcode Questions (currently 100)</li>
   </ul>
-View my resume <a href="https://drive.google.com/file/d/12_Y3Nyjq1J6YCCrZtUSm0WF5RnY_L96B/view?usp=sharing">here</a>
+View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a>
 </em></p>
 
 [![Twitter: anurag__3107](https://img.shields.io/twitter/follow/anurag__3107?style=social)](https://twitter.com/anurag__3107)
