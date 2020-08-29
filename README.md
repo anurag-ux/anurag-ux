@@ -3,10 +3,11 @@
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
  Currently I'm working on
   <ul>
-    <li>Machine Learning Project Based on Space Analysis </li>
-    <li> Learning React for Web Development</li>
-    <li>Competetive Programming and solving Leetcode Questions (currently 100)</li>
+    <li>ML and analysis Project Based on Space Analysis </li>
+    <li> Learning React and node.js for Web Development</li>
+    <li>Competetive Programming and solving Leetcode Questions daily(currently at 118)</li>
   </ul>
+ <hr>
 View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a>
 </em></p>
 
