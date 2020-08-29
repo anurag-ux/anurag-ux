@@ -1,7 +1,7 @@
 <h2> Hi, I'm Anurag Shandilya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="230">
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
- Currently I'm working on
+ ### Currently I'm working on
   <ul>
     <li>ML and analysis Project Based on Space Analysis </li>
     <li> Learning React and node.js for Web Development</li>
