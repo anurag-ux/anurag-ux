@@ -3,12 +3,12 @@
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
  <h3>Currently I'm working on</h3>
   <ul>
-    <li>ML and analysis Project Based on Space Analysis </li>
+    <li><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/2Ygy0khwewLgMSYM0t" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/girlswhocode-computer-2Ygy0khwewLgMSYM0t">via GIPHY</a></p>ML and analysis Project Based on Space Analysis </li>
     <li> Learning React and node.js for Web Development</li>
     <li>Competetive Programming and solving Leetcode Questions daily(currently at 118)</li>
   </ul>
  <hr>
-View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a>
+<h4>View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a></h4>
 </em></p>
 
 [![Twitter: anurag__3107](https://img.shields.io/twitter/follow/anurag__3107?style=social)](https://twitter.com/anurag__3107)
