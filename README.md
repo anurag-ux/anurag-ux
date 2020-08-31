@@ -8,8 +8,8 @@
  <h2>Currently I'm working on <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="50"></h2>
   <ul>
      <li>ML and analysis Project Based on Space Analysis. <a href="https://github.com/anurag-ux/Space-Missions-Analysis">View</a></li>
-    <li> Learning React and node.js for Web Development. <a href="https://github.com/anurag-ux/nodejs-mini-projects">View</a></li>
-    <li>Competetive Programming and solving Leetcode Questions daily(currently at 118). <a href="https://leetcode.com/anurag3107/">View</a></li>
+    <li> Learning node.js and PHP for Backend Web Development. <a href="https://github.com/anurag-ux/nodejs-mini-projects">View</a></li>
+    <li>Competetive Programming and solving Leetcode Questions daily(currently at 124). <a href="https://leetcode.com/anurag3107/">View</a></li>
   </ul>
  <hr>
 <h2>View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a></h2>
