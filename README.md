@@ -7,7 +7,7 @@
 <p><em>Student at <a href="https://hithaldia.in/main/">Haldia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><hr>
  <h2>Currently I'm working on <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="50"></h2>
   <ul>
-    <li> Working on flutter to build ios/android apps for my projects.</li>
+    <li> Working on flutter to build native apps for my projects.</li>
      <li>ML and analysis Project Based on Space Data. <a href="https://github.com/anurag-ux/Space-Missions-Analysis">View</a></li>
     <li> Learning node.js and PHP for Backend Web Development. <a href="https://github.com/anurag-ux/nodejs-mini-projects">View</a></li>
     <li>Learning Andriod Dev Basics from Udacity</li>
