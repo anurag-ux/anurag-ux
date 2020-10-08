@@ -14,7 +14,7 @@
     <li>Competetive Programming and solving Leetcode Questions daily(currently at 231). <a href="https://leetcode.com/anurag3107/">View</a></li>
   </ul>
  <hr>
-<h2>View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a></h2>
+<h2>View my resume <a href="https://drive.google.com/file/d/1z9OHD86WNEj38jR9RpV2Udkl1A3IDQ0c/view?usp=sharing">here</a></h2>
 </em></p>
 
 [![Twitter: anurag__3107](https://img.shields.io/twitter/follow/anurag__3107?style=social)](https://twitter.com/anurag__3107)
