@@ -11,7 +11,7 @@
      <li>ML and analysis Project Based on Space Data. <a href="https://github.com/anurag-ux/Space-Missions-Analysis">View</a></li>
     <li> Learning node.js and PHP for Backend Web Development. <a href="https://github.com/anurag-ux/nodejs-mini-projects">View</a></li>
     <li>Learning Andriod Dev Basics from Udacity</li>
-    <li>Competetive Programming and solving Leetcode Questions daily(currently at 229). <a href="https://leetcode.com/anurag3107/">View</a></li>
+    <li>Competetive Programming and solving Leetcode Questions daily(currently at 231). <a href="https://leetcode.com/anurag3107/">View</a></li>
   </ul>
  <hr>
 <h2>View my resume <a href="https://drive.google.com/file/d/1zCQD9FsnYu4hob60Eq-n1n3ZNQ8GK4nm/view?usp=sharing">here</a></h2>
