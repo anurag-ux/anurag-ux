@@ -1,4 +1,4 @@
-## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Anurag Shandilya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub anurag-ux](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/anurag-ux)
 [![Linkedin: Anurag Shandilya](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/anuragshandilya31/)
