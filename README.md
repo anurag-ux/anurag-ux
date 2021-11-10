@@ -2,7 +2,6 @@
 
 [![GitHub anurag-ux](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/anurag-ux)
 [![Linkedin: Anurag Shandilya](https://img.shields.io/badge/-Anurag%20Shandilya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/anuragshandilya31/)
-[![Twitter: Anurag Shandilya](https://img.shields.io/twitter/follow/anurag__3107_)?style=social)](https://twitter.com/anurag__3107)
   
 I develop software, build technical communities, create content and love meeting new people!
 
